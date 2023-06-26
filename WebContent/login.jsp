@@ -72,7 +72,7 @@ body {
 	crossorigin="anonymous"></script>
 
 <script>
-	var tiempoRestante = 30;
+	var tiempoRestante = 25;
 	var contadorElemento = document.getElementById("contador");
 	var btnReset = document.getElementById("btn-reset");
 	var btnIngresar = document.getElementById("btn-ingresar");
